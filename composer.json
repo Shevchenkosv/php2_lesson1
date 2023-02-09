@@ -1,0 +1,19 @@
+{
+    "name": "geekbrains/leveltwo",
+    "authors": [
+        {
+            "name": "Shevchenkosv",
+            "email": "shevchenkosv@bk.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Geekbrains\\LevelTwo\\": "src/"
+        }
+    },
+
+    "require": {
+        "fakerphp/faker": "^1.21",
+        "roave/security-advisories": "dev-latest"
+    }
+}
